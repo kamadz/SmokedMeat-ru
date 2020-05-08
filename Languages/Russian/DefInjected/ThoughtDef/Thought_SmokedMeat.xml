@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VP_AteSmokedMeat.stages.ate_smoked_meat.label>съедено копчёное мясо</VP_AteSmokedMeat.stages.ate_smoked_meat.label>
+  <VP_AteSmokedMeat.stages.ate_smoked_meat.description>Это было очень вкусное копчёное мясо. Объедение!</VP_AteSmokedMeat.stages.ate_smoked_meat.description>
+
+  <VP_FoodMadeWithSmokedMeat.stages.meal_included_smoked_meat.label>съедено блюдо с копчёным мясом</VP_FoodMadeWithSmokedMeat.stages.meal_included_smoked_meat.label>
+  <VP_FoodMadeWithSmokedMeat.stages.meal_included_smoked_meat.description>Это было было с копчёным мясом. Пальчики оближешь!</VP_FoodMadeWithSmokedMeat.stages.meal_included_smoked_meat.description>
+  
+  <AteSmokedInsectMeatDirect.stages.ate_insect_meat.label>съедено копчёное мясо насекомого</AteSmokedInsectMeatDirect.stages.ate_insect_meat.label>
+  <AteSmokedInsectMeatDirect.stages.ate_insect_meat.description>Мне пришлось есть серое склизкое мясо насекомого. Это была, наверное, самая отвратительная пища в моей жизни.</AteSmokedInsectMeatDirect.stages.ate_insect_meat.description>
+  
+  <AteSmokedInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>съедено блюдо с копчёным мясом насекомого</AteSmokedInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
+  <AteSmokedInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>Мне пришлось съесть блюдо, приготовленное из серого склизкого мяса насекомого. Приправа немного скрасила вкус, но были непонятные желёзки и странная жидкость.</AteSmokedInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>
+
+
+</LanguageData>

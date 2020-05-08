@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tam_SmokeMeat150.label>Закоптить мясо（150）</Tam_SmokeMeat150.label>
+  <Tam_SmokeMeat150.description>Закоптить мясо, чтобы оно дольше хранилось. Вкусно, но довольно тяжело жевать. Копчёное мясо может долго лежать без заморозки. Большие партии готовятся столько же, сколько и маленькие, однако, чтобы прокоптить такую большую кучу мяса равномерно, требуется некоторая сноровка.</Tam_SmokeMeat150.description>
+  <Tam_SmokeMeat150.jobString>Коптит мясо</Tam_SmokeMeat150.jobString>
+
+  <Tam_SmokeMeat75.label>Закоптить мясо（75）</Tam_SmokeMeat75.label>
+  <Tam_SmokeMeat75.description>Закоптить мясо, чтобы оно дольше хранилось. Вкусно, но довольно тяжело жевать. Копчёное мясо может долго лежать без заморозки. Большие партии готовятся столько же, сколько и маленькие, однако, чтобы прокоптить такую большую кучу мяса равномерно, требуется некоторая сноровка.</Tam_SmokeMeat75.description>
+  <Tam_SmokeMeat75.jobString>Коптит мясо</Tam_SmokeMeat75.jobString>
+
+  <Tam_SmokeMeat40.label>Закоптить мясо（40）</Tam_SmokeMeat40.label>
+  <Tam_SmokeMeat40.description>Закоптить мясо, чтобы оно дольше хранилось. Вкусно, но довольно тяжело жевать. Копчёное мясо может долго лежать без заморозки. Маленькие партии готовятся столько же, сколько и большие.</Tam_SmokeMeat40.description>
+  <Tam_SmokeMeat40.jobString>Коптит мясо</Tam_SmokeMeat40.jobString>
+
+  <Tam_SmokeMeat10.label>Закоптить мясо（10）</Tam_SmokeMeat10.label>
+  <Tam_SmokeMeat10.description>Закоптить мясо, чтобы оно дольше хранилось. Вкусно, но довольно тяжело жевать. Копчёное мясо может долго лежать без заморозки. Маленькие партии готовятся столько же, сколько и большие.</Tam_SmokeMeat10.description>
+  <Tam_SmokeMeat10.jobString>Коптит мясо</Tam_SmokeMeat10.jobString>
+
+
+</LanguageData>
